@@ -2,3 +2,4 @@ window
 door
 bed
 table
+yo
