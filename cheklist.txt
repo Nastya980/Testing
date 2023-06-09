@@ -2,4 +2,6 @@ window
 door
 bed
 table
-yo
+chair
+sofa
+fridge
