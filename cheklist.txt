@@ -1,5 +1,5 @@
-window
-door
+window 5
+door 7
 bed
 table
 chair
